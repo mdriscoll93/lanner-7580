@@ -1,5 +1,6 @@
 # lanner-7580
-> a spicy firewall
+> a spicy firewall<br>
+
 various resourcese I've used throughout this device's 3-yr tenure in my homelab.
 
 ## References
