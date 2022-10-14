@@ -1,7 +1,7 @@
 # lanner-7580
 > a spicy firewall<br>
 
-various resourcese I've used throughout this device's 3-yr tenure in my homelab.
+various resources I've used throughout this device's 3-yr tenure in my homelab.
 
 ## References
 - [pfSense Firebox site](https://sites.google.com/site/pfsensefirebox/home)[^1]  
